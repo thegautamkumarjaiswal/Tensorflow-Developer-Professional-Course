@@ -49,3 +49,4 @@ Last week you saw how to improve the results from your deep neural network using
 * Outro: Conversation with Andrew
 * Lab Excercise - Classifying emotion with CNN
 
+## Here is My Certificate link: https://coursera.org/share/341d04af2663780da275403f0d380edc
