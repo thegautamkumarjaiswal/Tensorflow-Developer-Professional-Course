@@ -4,11 +4,11 @@
 * Machine Learning
 * Bugs
 * Binary
-***Answers**
+* **Answers**
 ### Question 2: The diagram for Machine Learning had Answers and Data In, but what came out?
 
 * Models
-***Rules**
+* **Rules**
 * Bugs
 * Binary
 
