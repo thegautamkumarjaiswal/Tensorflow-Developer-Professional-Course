@@ -15,4 +15,4 @@ The Machine Learning course and Deep Learning Specialization from Andrew Ng teac
 * Week 4: Using Real-World Images
 
 ## Thank You!
-* Thank you to course instructor, **Laurence Moroney(Lead AI Advocate, Google)** for this beautiful course specification.
+* Thank you to course instructor, **[Laurence Moroney(Lead AI Advocate, Google)](https://www.linkedin.com/in/laurence-moroney/)** and [Andrew Ng(founder of deeplearning.ai)](https://www.linkedin.com/in/andrewyng/) for this beautiful course specification.
