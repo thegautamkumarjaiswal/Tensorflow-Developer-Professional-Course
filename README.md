@@ -36,6 +36,15 @@ In this third course, you’ll learn how to apply neural networks to solve natur
 * Week 4: Sequence Models and Literature
 
 
+## Course 4: Sequences, Time Series, and Prediction
+On top of DNNs and RNNs, let's also add convolutions, and then put it all together using a real-world data series -- one which measures sunspot activity over hundreds of years, and see if we can predict using it.
+
+* Week 1: Sequences and Predictions
+* Week 2: Deep Neural Networks for Time Series
+* Week 3: Recurrent Neural Networks for Time Series
+* Week 4: Real-world Time Series Data
+
+
 
 ## Thank You!
 * Thank you to course instructor, **[Laurence Moroney(Lead AI Advocate, Google)](https://www.linkedin.com/in/laurence-moroney/)** and [Andrew Ng(founder of deeplearning.ai)](https://www.linkedin.com/in/andrewyng/) for this beautiful course specification.
